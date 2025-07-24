@@ -6,13 +6,19 @@ This is the official github organization for [World-Snapshot](https://github.com
 
 This projects officially supported by the team include: 
 
-- [WaveGen](https://github.com/World-Snapshot/ControlWave) - the core World-Snapshot repo.
-- [ControlWave](https://github.com/World-Snapshot/ControlWave) - a WebUI that makes WaveGen more convenient to control. Unlike ControlNet, WaveGen natively supports various controls and doesn't require training additional neural blocks like ControlNet does. Therefore, this is just a WebUI.
-- [WSG](https://github.com/World-Snapshot/wsg) - the code of processing data, wsg/wsv maker (img2wsg converter) and wsg/wsv reader (player).
-- [Project Page](https://world-snapshot.github.io) - the Project Page of World-Snapshot.
-- [Doc](https://world-snapshot.github.io/doc) - official documentation of World-Snapshot.
+- [WaveGen](https://github.com/World-Snapshot/ControlWave) - The Official Code of Wave Generative Model.
+- [ControlWave](https://github.com/World-Snapshot/ControlWave) - The WebUI of the WaveGen model for easier training and control. Unlike ControlNet, WaveGen natively supports various control conditions and doesn't require training additional neural blocks like ControlNet does. Therefore, this is just a WebUI.
+- [WSG](https://github.com/World-Snapshot/wsg) - The Code of processing data, wsg/wsv maker (img2wsg converter) and wsg/wsv reader (player).
+- [Project Page](https://world-snapshot.github.io) - Project Page of World-Snapshot.
+- [Doc](https://world-snapshot.github.io/doc) - The Official Documentation of World-Snapshot.
 
+## Selected News
 
-## Contribute
+- **2025 Feb 7:** Guideline "Model Design Guideline Memo" completed.
+- **2024 Dec 20:** About 2:38 a.m., BOOM! The ideas for the project began to emerge continuously.
 
-We welcome contributions in all forms. Please check the respective repositories on how to contribute :)
+--> [All News](https://world-snapshot.github.io/doc/index.html?page=S6_materials/01_news.md)
+
+## Q&As
+
+Check [this list](https://world-snapshot.github.io/doc/index.html?page=S6_materials/04_questions.md). If the questions does not exist, please submit an issue. :)
