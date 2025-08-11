@@ -7,7 +7,7 @@ This is the official github organization for [World-Snapshot](https://github.com
 This projects officially supported by the team include: 
 
 - [WaveGen](https://github.com/World-Snapshot/ControlWave) - The Official Code of Wave Generative Model.
-- [ControlWave](https://github.com/World-Snapshot/ControlWave) - The WebUI of the WaveGen model for easier training and control. Unlike ControlNet, WaveGen natively supports various control conditions and doesn't require training additional neural blocks like ControlNet does. Therefore, this is just a WebUI.
+- [ControlWave](https://github.com/World-Snapshot/ControlWave) - The WebUI of the WaveGen models/method for easier training and control.
 - [WSG](https://github.com/World-Snapshot/wsg) - The Code of processing data, wsg/wsv maker (img2wsg converter) and wsg/wsv reader (player).
 - [Project Page](https://world-snapshot.github.io) - Project Page of World-Snapshot.
 - [Doc](https://world-snapshot.github.io/doc) - The Official Documentation of World-Snapshot.
