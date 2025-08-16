@@ -8,7 +8,7 @@ This projects officially supported by the team include:
 
 - [WaveGen](https://github.com/World-Snapshot/WaveGen) - The Official Code of Wave Generative Model.
 - [ControlWave](https://github.com/World-Snapshot/ControlWave) - The WebUI of the WaveGen models/method for easier training and control.
-- [Wave2Pixel](https://github.com/World-Snapshot/wave2pixel) - The decoder of WaveGen and is used to obtain the world pixels' files (WSG, WSV) from the wave core space.
+- [Wave2Pixel](https://github.com/World-Snapshot/wave2pixel) - The decoder of WaveGen and is used to obtain the wsg/wsv files from the wave core space.
 - [WSG](https://github.com/World-Snapshot/wsg) - The Code of processing data, wsg/wsv maker (img2wsg converter) and wsg/wsv reader (player).
 - [Project Page](https://world-snapshot.github.io) - Project Page of World-Snapshot.
 - [Doc](https://world-snapshot.github.io/doc) - The Official Documentation of World-Snapshot.
