@@ -15,7 +15,7 @@ This projects officially supported by the team include:
 
 ## Selected News
 
-- **2025 Feb 7:** Guideline "Model Design Guideline Memo" completed.
+- **2025 Feb 7:** Guideline ["Model Design Guideline Memo"](https://world-snapshot.github.io/doc/index.html?page=S6_materials/02_guideline.md) completed.
 - **2024 Dec 20:** About 2:38 a.m., BOOM! The ideas for the project began to emerge continuously.
 
 --> [All News](https://world-snapshot.github.io/doc/index.html?page=S6_materials/01_news.md)
