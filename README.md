@@ -13,6 +13,12 @@ This projects officially supported by the team include:
 - [Project Page](https://world-snapshot.github.io) - Project Page of World-Snapshot.
 - [Doc](https://world-snapshot.github.io/doc) - The Official Documentation of World-Snapshot.
 
+The projects we have created/developed/maintained for supporting WSMs&WaveGen:
+
+- [StreamFlow](https://github.com/World-Snapshot/wave2pixel/tree/main/streamflow): Based on the [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) improvement, we make the generation speed of RF can be increased by 300% to 600%. WaveGen supports native parallel decoding, and can further increase the decoding speed by n times based on n GPUs.
+- [Sen-Fang-Initialization](https://github.com/World-Snapshot/Sen-Fang-Initialization): The Tutorial of Sen Fang Initialization.
+- [Paper-With-Code-Archive](https://github.com/World-Snapshot/papers-with-code): The first reimplementation of paperswithcode website. It seems that Huggingface doesn't take PWC seriously.
+
 ## Selected News
 
 - **2025 Feb 7:** Guideline ["Model Design Guideline Memo"](https://world-snapshot.github.io/doc/index.html?page=S6_materials/02_guideline.md) completed.
