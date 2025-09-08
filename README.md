@@ -15,9 +15,9 @@ This projects officially supported by the team include:
 
 The projects we have created/developed/maintained for supporting WSMs&WaveGen:
 
-- [StreamFlow](https://github.com/World-Snapshot/wave2pixel/tree/main/streamflow): Based on the StreamDiffusion improvement.
+- [StreamFlow](https://github.com/World-Snapshot/wave2pixel/tree/main/streamflow): Our based on the StreamDiffusion improvement.
 - [Sen-Fang-Initialization](https://github.com/World-Snapshot/Sen-Fang-Initialization): The Tutorial of Sen Fang Initialization.
-- [Paper-With-Code-Archive](https://github.com/World-Snapshot/papers-with-code): The first reimplementation of paperswithcode website.
+- [Paper-With-Code-Archive](https://github.com/World-Snapshot/papers-with-code): Our first reimplementation of paperswithcode website.
 
 ## Selected News
 
