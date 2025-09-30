@@ -15,3 +15,6 @@ Please briefly describe the changes in this PR
 ## Checklist
 - [ ] Code conforms to the project style/contribution guidelines
 - [ ] I have updated the relevant documentation
+
+## Optional
+- [ ] If your changes are non-documentation changes, we will consider including them in the next version of the paper. Please join [Slack](https://join.slack.com/t/senfanglab/shared_invite/zt-3e9y3e85d-jQu5Jt7UDYyEDfkuGCdJWA) for details.
