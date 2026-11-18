@@ -15,7 +15,7 @@ The projects we have developed for supporting WSMs&WaveGen:
 - **2026 Nov 18:** 🎉🎉 We have fully open-sourced everything of WSMs, including paper, code, data, documentation, WebUI, Live Demo, Training state file, one-click installation via Pip/Pipeline, evaluation scripts, and even training logs. Enjoy it!
 - **2024 Dec 20:** About 2:38 a.m., BOOM! The ideas for the project began to emerge continuously.
 
---> [All News](https://world-snapshot.github.io/doc/index.html?page=S6_materials/01_news.md)
+--> [All News of WSMs](https://world-snapshot.github.io/WSMs/?page=news.md)
 
 ### Q&As
 
