@@ -10,16 +10,16 @@ The projects we have developed for supporting WSMs&WaveGen:
 - Some Tutorials: [Unified Law for Visual Tasks](https://github.com/World-Snapshot/Unified-Law-for-Visual-Tasks) (The Four Laws of Computer Vision) | [100% Multimodal Fusion](https://github.com/World-Snapshot/100-percent-multimodal-fusion)
 - [Paper-With-Code-Archive](https://github.com/World-Snapshot/papers-with-code): Our first reimplementation of paperswithcode website.
 
-### Selected News
+### Selected WSMs News
 
-- **2026 Nov 18:** 🎉🎉 We have fully open-sourced everything, including paper, code, data, documentation, WebUI, Live Demo, Training state file, one-click installation via Pip/Pipeline, evaluation scripts, and even training logs. Enjoy it!
+- **2026 Nov 18:** 🎉🎉 We have fully open-sourced everything of WSMs, including paper, code, data, documentation, WebUI, Live Demo, Training state file, one-click installation via Pip/Pipeline, evaluation scripts, and even training logs. Enjoy it!
 - **2024 Dec 20:** About 2:38 a.m., BOOM! The ideas for the project began to emerge continuously.
 
 --> [All News](https://world-snapshot.github.io/doc/index.html?page=S6_materials/01_news.md)
 
 ### Q&As
 
-Check [this list](https://world-snapshot.github.io/doc/index.html?page=S6_materials/04_questions.md) and [project page](https://world-snapshot.github.io). If the questions does not exist, please submit an issue. :)
+Check [this list](https://world-snapshot.github.io/doc/index.html?page=S6_materials/04_questions.md) and [org page](https://world-snapshot.github.io). If the questions does not exist, please submit an issue. :)
 
 
 <!--
