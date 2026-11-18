@@ -12,7 +12,7 @@ The projects we have developed for supporting WSMs&WaveGen:
 
 ### Selected News
 
-- **2025 Feb 7:** Guideline ["Model Design Guideline Memo"](https://world-snapshot.github.io/doc/index.html?page=S6_materials/02_guideline.md) completed.
+- **2026 Nov 18:** 🎉🎉 We have fully open-sourced everything, including paper, code, data, documentation, WebUI, Live Demo, Training state file, one-click installation via Pip/Pipeline, evaluation scripts, and even training logs. Enjoy it!
 - **2024 Dec 20:** About 2:38 a.m., BOOM! The ideas for the project began to emerge continuously.
 
 --> [All News](https://world-snapshot.github.io/doc/index.html?page=S6_materials/01_news.md)
