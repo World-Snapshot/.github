@@ -1,18 +1,13 @@
-This projects officially supported by the team include: 
+This org aims to define and guide the development of the Computer Vision field. Supported projects include:
 
-- [WaveGen](https://github.com/World-Snapshot/WaveGen) - The Official Code of Wave Generative Model.
-- [ControlWave](https://github.com/World-Snapshot/ControlWave) - The WebUI of the WaveGen models/method for easier training and control.
-- [Wave2Pixel](https://github.com/World-Snapshot/wave2pixel) - The decoder of WaveGen and is used to obtain the wsg/wsv files from the wave core space.
+- [WSMs](https://github.com/World-Snapshot/WSMs) - The Official Code of World Snapshot Models. [Project Page](https://world-snapshot.github.io), [Doc](https://world-snapshot.github.io/doc/index.html)
+- [ControlWorld](https://github.com/World-Snapshot/ControlWave) -The WebUI of the WSMs model for easier training and control.
 - [WSG](https://github.com/World-Snapshot/wsg) - The Code of processing data, wsg/wsv maker (img2wsg converter) and wsg/wsv reader (player).
-- [Project Page](https://world-snapshot.github.io) - Project Page of World-Snapshot.
-- [Doc](https://world-snapshot.github.io/doc) - The Official Documentation of World-Snapshot.
-- [The-results-of-Augustus](https://github.com/World-Snapshot/The-results-of-Augustus) - The task results of the "Augustus v1" WSM. Unified and Supported Tasks are 139 for Now.
 
 The projects we have developed for supporting WSMs&WaveGen:
 
-- [StreamFlow](https://github.com/World-Snapshot/wave2pixel/tree/main/streamflow): The Rectified Flow Model can be accelerated by 300% - 600%, and multi-GPU acceleration has no upper limit.
-- Some Tutorials: [Sen-Fang-Initialization](https://github.com/World-Snapshot/Sen-Fang-Initialization) | [Unified Law for Visual Tasks](https://github.com/World-Snapshot/Unified-Law-for-Visual-Tasks).
-- [100% Multimodal Fusion](https://github.com/World-Snapshot/100-percent-multimodal-fusion): The Tutorial of 100% Multimodal Fusion.
+- [StreamFlow](https://github.com/World-Snapshot/StreamFlow): The Rectified Flow Model can be accelerated by 300% - 600%, and multi-GPU acceleration has no upper limit.
+- Some Tutorials: [Unified Law for Visual Tasks](https://github.com/World-Snapshot/Unified-Law-for-Visual-Tasks) (The Four Laws of Computer Vision) | [100% Multimodal Fusion](https://github.com/World-Snapshot/100-percent-multimodal-fusion)
 - [Paper-With-Code-Archive](https://github.com/World-Snapshot/papers-with-code): Our first reimplementation of paperswithcode website.
 
 ### Selected News
@@ -25,3 +20,10 @@ The projects we have developed for supporting WSMs&WaveGen:
 ### Q&As
 
 Check [this list](https://world-snapshot.github.io/doc/index.html?page=S6_materials/04_questions.md) and [project page](https://world-snapshot.github.io). If the questions does not exist, please submit an issue. :)
+
+
+<!--
+- [WaveGen](https://github.com/World-Snapshot/WaveGen) - The Official Code of Wave Generative Method.
+- [The-results-of-Augustus](https://github.com/World-Snapshot/The-results-of-Augustus) - The task results of the "Augustus v1" WSM. Unified and Supported Tasks are 200 for Now.
+ | [Sen-Fang-Initialization](https://github.com/World-Snapshot/Sen-Fang-Initialization)
+-->
