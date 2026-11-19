@@ -4,7 +4,7 @@ This org aims to define and guide the development of the Computer Vision field. 
 - [ControlWorld](https://github.com/World-Snapshot/ControlWorld) -The WebUI of the WSMs model for easier training and control.
 - [WSG](https://github.com/World-Snapshot/wsg) - The Code of processing data, wsg/wsv maker (img2wsg converter) and wsg/wsv reader (player).
 
-The projects we have developed for supporting WSMs&WaveGen:
+The projects we have developed for supporting WSMs & Unified Law:
 
 - [StreamFlow](https://github.com/World-Snapshot/StreamFlow): The Rectified Flow Model can be accelerated by 300% - 600%, and multi-GPU acceleration has no upper limit.
 - Some Tutorials: [Unified Law for Visual Tasks](https://github.com/World-Snapshot/Unified-Law-for-Visual-Tasks) (The Four Laws of Computer Vision) | [100% Multimodal Fusion](https://github.com/World-Snapshot/100-percent-multimodal-fusion)
