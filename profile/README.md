@@ -1,6 +1,6 @@
 This org aims to define and guide the development of the Computer Vision field. Supported projects include:
 
-- [WSMs](https://github.com/World-Snapshot/WSMs) - The Official Code of World Snapshot Models. [Project Page](https://world-snapshot.github.io/WSMs), [Doc](https://world-snapshot.github.io/doc/index.html)
+- [WSMs](https://github.com/World-Snapshot/WSMs) - The Official Code of World Snapshot Models. [Paper](https://arxiv.org/abs/2611.24917), [Project Page](https://world-snapshot.github.io/WSMs), [Doc](https://world-snapshot.github.io/doc/index.html), [Huggingface](https://huggingface.co/World-Snapshot/datasets)
 - [ControlWorld](https://github.com/World-Snapshot/ControlWorld) -The WebUI of the WSMs model for easier training and control.
 - [WSG](https://github.com/World-Snapshot/wsg) - The Code of processing data, wsg/wsv maker (img2wsg converter) and wsg/wsv reader (player).
 
